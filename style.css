@@ -46,6 +46,7 @@ nav button{
     background: transparent;
     border: 1px solid #fff;
     padding: 7px 10px;
+    color: #fff; 
 }
 .lang-btn img{
     width: 10px;
